@@ -10,3 +10,9 @@ C:\Users\Julia\Documents\Visual Studio 2015\Projects\ConvertisseurChiffresRomain
 C:\Users\Julia\Documents\Visual Studio 2015\Projects\ConversionChiffresRomains\ConvertisseurChiffresRomains\bin\Debug\ConvertisseurChiffresRomains.exe.config
 C:\Users\Julia\Documents\Visual Studio 2015\Projects\ConversionChiffresRomains\ConvertisseurChiffresRomains\obj\Debug\ConvertisseurChiffresRomains.exe
 C:\Users\Julia\Documents\Visual Studio 2015\Projects\ConversionChiffresRomains\ConvertisseurChiffresRomains\obj\Debug\ConvertisseurChiffresRomains.pdb
+C:\Users\Julia\Documents\Visual Studio 2015\Projects\ConversionChiffresRomains\ConvertisseurChiffresRomains\bin\Debug\ConvertisseurChiffresRomains.exe
+C:\Users\Julia\Documents\Visual Studio 2015\Projects\ConversionChiffresRomains\ConvertisseurChiffresRomains\bin\Debug\ConvertisseurChiffresRomains.pdb
+C:\Users\Julia\Documents\Visual Studio 2015\Projects\ConversionChiffresRomains\ConvertisseurChiffresRomains\obj\Debug\ConvertisseurChiffresRomains.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Documents\Visual Studio 2015\Projects\ConversionChiffresRomains\ConvertisseurChiffresRomains\obj\Debug\ConvertisseurChiffresRomains.FrmConvertirNumeros.resources
+C:\Users\Julia\Documents\Visual Studio 2015\Projects\ConversionChiffresRomains\ConvertisseurChiffresRomains\obj\Debug\ConvertisseurChiffresRomains.Properties.Resources.resources
+C:\Users\Julia\Documents\Visual Studio 2015\Projects\ConversionChiffresRomains\ConvertisseurChiffresRomains\obj\Debug\ConvertisseurChiffresRomains.csproj.GenerateResource.Cache

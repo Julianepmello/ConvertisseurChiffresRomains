@@ -65,7 +65,6 @@
             this.textBoxNumero.Name = "textBoxNumero";
             this.textBoxNumero.Size = new System.Drawing.Size(122, 24);
             this.textBoxNumero.TabIndex = 2;
-            this.textBoxNumero.Text = "Entre 1 et 3999";
             this.textBoxNumero.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBoxNumero_KeyPress);
             // 
             // textBoxChiffreRomain
